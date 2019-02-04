@@ -6,7 +6,7 @@
             <div class="col-lg-5 col-md-12 pr-lg-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
-                        <a href="{{ post.url | absolute_url }}">
+                        <a href="{{ post.url }}">
                              <span class="thumbnail d-block" style="background-image:url( {{ post.image }} );">
                             </span>
                         </a>
@@ -17,7 +17,7 @@
                 <div class="h-100 card-group">
                     <div class="card">
                         <div class="card-body">
-                            <h2 class="card-title"><a class="text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                            <h2 class="card-title"><a class="text-dark" href="{{ post.url }}">{{ post.title }}</a></h2>
                             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
