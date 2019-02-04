@@ -6,12 +6,12 @@
             <div class="col-lg-5 col-md-12 pr-lg-0">
                 <div class="h-100">
                     <div class="wrapthumbnail">
-                      {% if post.layout == 'default' %}
+                      {% if page.layout == 'default' %}
                         <a href="{{ post.url }}">
                              <span class="thumbnail d-block" style="background-image:url( {{ post.image }} );">
                             </span>
                         </a>
-                        {% elsif post.layput == 'post' %}
+                        {% elsif page.layput == 'post' %}
                         <a href="{{ post.url }}">
                              <span class="thumbnail d-block" style="background-image:url( ../../../../../{{ post.image }} );">
                             </span>
