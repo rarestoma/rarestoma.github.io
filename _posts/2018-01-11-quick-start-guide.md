@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Quick Start Guide"   
+title:  "Reguli majore pentru costum"   
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/suit.jpeg
 featured: true
 hidden: true
 ---
 
-If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
+
+Fiecare bărbat ar trebui să aibă un costum în garderoba lui. Indiferent dacă îl purtați la ocazii speciale sau zilnic, un costum va fi întotdeauna esențial. Cu toate acestea, ca toate lucrurile, există anumite reguli pe care trebuie să le urmați întotdeauna. În acest articol vă vom prezenta câteva reguli esențiale pe care trebuie să le îndeplinească un costum.
 
 ```ruby
 # Install Jekyll and Bundler gems through RubyGems
