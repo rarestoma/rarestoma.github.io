@@ -607,8 +607,9 @@ License: https://www.wowthemes.net/freebies-license/
          margin-top: 3rem;
          padding:0;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(../images/jumbotron.jpeg);
          background-size:cover;
+         background-position: center 80%;
 }
  .jumbotron.fortags a {
      padding: 5px 10px 7px;

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reguli majore pentru costum"   
-author: sal
+author: tombox
 categories: [ costum ]
 image: assets/images/suit.jpeg
 featured: true
