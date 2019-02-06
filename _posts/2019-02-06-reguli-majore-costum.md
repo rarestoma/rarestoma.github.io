@@ -34,11 +34,11 @@ Un pas important este atenția la detalii. Nu vrei să te simți inconfortabil �
 
 Unii bărbați au mâinile mai lungi decât alții, deci este greu să determini pe deplin ce se poate face cu manșetele tale dacă ai brațe lungi. Ideal este ca manșeta să fie mai lungă cu aproximativ un centimentru față de mânecile sacoului. Dacă trebuie să scurtați brațele sau să cumpărați o cămașă mai mare pentru a compensa mânecile, atunci este recomandat să consulați un croitor pentru o opinie profesională.
 
-![alt text](../../../../../assets/images/cuffs.jpg)
+![alt text](../../../../assets/images/cuffs.jpg)
 
 
 ### Lungimea pantalonilor
 
 Pantalonii trebuie să ajungă până la gleznă. Când vă așezați, pantalonii tăi se vor ridica puțin, așa că pentru a nu se vedea pielea ai nevoie de o pereche de șosete lungi.
 
-![alt text](../../../../../assets/images/trousers.jpg)
+![alt text](../../../../assets/images/trousers.jpg)

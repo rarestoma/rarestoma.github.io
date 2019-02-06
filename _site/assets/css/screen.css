@@ -407,13 +407,14 @@ License: https://www.wowthemes.net/freebies-license/
      margin-bottom:1.2rem;
 }
  .btn.follow {
-     border-color:#02B875;
-     color:#1C9963;
+     border-color:#2c3a55;
+     color:#2c3a55;
      padding:3px 10px;
      text-align:center;
      border-radius:999em;
      font-size:0.85rem;
      display:inline-block;
+     border-width: 2px;
 }
  .btn.subscribe {
      background-color:#1C9963;

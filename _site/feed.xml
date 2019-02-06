@@ -2,12 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Afla totul despre moda masculina</description>
+    <description>Află totul despre moda masculină</description>
     <link>http://localhost:4000/mediumish-theme-jekyll/</link>
     <atom:link href="http://localhost:4000/mediumish-theme-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Feb 2019 23:09:18 +0200</pubDate>
-    <lastBuildDate>Tue, 05 Feb 2019 23:09:18 +0200</lastBuildDate>
+    <pubDate>Wed, 06 Feb 2019 17:44:17 +0200</pubDate>
+    <lastBuildDate>Wed, 06 Feb 2019 17:44:17 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Reguli majore pentru costum</title>
+        <description>&lt;p&gt;Fiecare bărbat ar trebui să aibă un costum în garderoba lui. Indiferent dacă îl purtați la ocazii speciale sau zilnic, un costum va fi întotdeauna esențial. Cu toate acestea, ca toate lucrurile, există anumite reguli pe care trebuie să le urmați întotdeauna. În acest articol vă vom prezenta câteva reguli esențiale pe care trebuie să le îndeplinească un costum.&lt;/p&gt;
+
+&lt;h1 id=&quot;tipuri-de-costume&quot;&gt;&lt;u&gt;Tipuri de costume&lt;/u&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;fit-ul-costumelor&quot;&gt;Fit-ul costumelor&lt;/h2&gt;
+
+&lt;p&gt;Primul lucru pe care trebuie să îl iei în considerare este să vezi ce costum ți se potrivește cel mai bine. Cu opțiunile de &lt;i&gt;skinny&lt;/i&gt; sau &lt;i&gt;slim&lt;/i&gt;, cele mai populare acum, trebuie să știi care îți este cel mai potrivit. Înțelegerea diferenței dintre cele două te va ajuta să faci alegerea potrivită.&lt;/p&gt;
+
+&lt;h3 id=&quot;slim-fit&quot;&gt;Slim Fit&lt;/h3&gt;
+
+&lt;p&gt;Cel mai popular și potrivit pentru majoritatea bărbaților este costumul slim fit. Cu o croială slim de la umeri până la brâu, sacoul unui costum slim va oferi un mare confort. Acest tip de costum este ideal pentru bărbații cu corpul atletic.&lt;/p&gt;
+
+&lt;h3 id=&quot;skinny-fit&quot;&gt;Skinny Fit&lt;/h3&gt;
+
+&lt;p&gt;Un costum mai strâmt față de cel slim este cel skinny. Strâmt în jurul umerilor și adus mai mult în jurul taliei, acest tip de costum este conceput pentru bărbații înalți și slabi. Costumele skinny sunt potrivite pentru evenimentele oficiale.&lt;/p&gt;
+
+&lt;h1 id=&quot;detaliile-contează&quot;&gt;&lt;u&gt;Detaliile contează&lt;/u&gt;&lt;/h1&gt;
+
+&lt;p&gt;Un pas important este atenția la detalii. Nu vrei să te simți inconfortabil și nici nu vrei să te îneci în țesături. De la brațe și picioare până la piept, fii sigur că îți cunoști mărimile. Indiferent dacă ai umerii largi sau nu, este important să încerci mai întâi sacoul. Dacă ești între mărimi și nu găsești niciodată costumul potrivit este bine să apelezi la un croitor.&lt;/p&gt;
+
+&lt;h3 id=&quot;manșetele&quot;&gt;Manșetele&lt;/h3&gt;
+
+&lt;p&gt;Unii bărbați au mâinile mai lungi decât alții, deci este greu să determini pe deplin ce se poate face cu manșetele tale dacă ai brațe lungi. Ideal este ca manșeta să fie mai lungă cu aproximativ un centimentru față de mânecile sacoului. Dacă trebuie să scurtați brațele sau să cumpărați o cămașă mai mare pentru a compensa mânecile, atunci este recomandat să consulați un croitor pentru o opinie profesională.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/images/cuffs.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lungimea-pantalonilor&quot;&gt;Lungimea pantalonilor&lt;/h3&gt;
+
+&lt;p&gt;Pantalonii trebuie să ajungă până la gleznă. Când vă așezați, pantalonii tăi se vor ridica puțin, așa că pentru a nu se vedea pielea ai nevoie de o pereche de șosete lungi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../assets/images/trousers.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Feb 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/costum/2019/02/06/reguli-majore-costum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/costum/2019/02/06/reguli-majore-costum.html</guid>
+        
+        
+        <category>costum</category>
+        
+      </item>
     
       <item>
         <title>Powerful things you can do with the Markdown editor</title>
@@ -187,6 +230,31 @@
       </item>
     
       <item>
+        <title>What is Jekyll</title>
+        <description>&lt;p&gt;No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML &amp;amp; CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.&lt;/p&gt;
+
+&lt;p&gt;Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator.&lt;/p&gt;
+
+&lt;p&gt;You create your content as text files (Markdown), and organize them into folders. Then, you build the shell of your site using Liquid-enhanced HTML templates. Jekyll automatically stitches the content and templates together, generating a website made entirely of static assets, suitable for uploading to any server.&lt;/p&gt;
+
+&lt;p&gt;Jekyll happens to be the engine behind GitHub Pages, so you can host your project’s Jekyll page/blog/website on GitHub’s servers for free.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Feb 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/02/05/reguli-costum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/02/05/reguli-costum.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
         <title>We all wait for summer</title>
         <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
 
@@ -246,57 +314,6 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/01/12/red-riding.html</link>
         <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/01/12/red-riding.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/01/12/press-and-education.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/01/12/press-and-education.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediumish-theme-jekyll/jekyll/tutorial/2018/01/12/options-for-creating-new-site-with-jekyll.html</guid>
         
         
         <category>Jekyll</category>
