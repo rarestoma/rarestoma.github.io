@@ -1,5 +1,5 @@
 # Site
-name: "Blogul tombox"
+name: "Blogul TOMbox"
 description: "Află totul despre moda masculină"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
@@ -15,11 +15,11 @@ authors:
   tombox:
     name: TOMbox
     display_name: TOMbox
-    gravatar: assets/images/logo-square.jpg
+    gravatar: assets/images/logo-square.jpg?s=250&d=mm&r=x
     email: wowthemesnet@gmail.com
     web: https://www.instagram.com/tomboxshop
     twitter: https://www.instagram.com/tomboxshop
-    description: "Accesorii și seturi bărbătești la cel mai avantajos preț."
+    description: "TOMbox este un brand românesc cu accesorii și seturi bărbătești la cel mai avantajos preț."
 
   john:
     name: Rares

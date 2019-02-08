@@ -5,8 +5,8 @@
     <description>Află totul despre moda masculină</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Feb 2019 22:05:00 +0200</pubDate>
-    <lastBuildDate>Wed, 06 Feb 2019 22:05:00 +0200</lastBuildDate>
+    <pubDate>Fri, 08 Feb 2019 12:57:20 +0200</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 12:57:20 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -53,133 +53,226 @@
       </item>
     
       <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+        <title>Top 5 accesorii pe care trebuie să le porți la costum</title>
+        <description>&lt;p&gt;Costumele bărbătești sunt elegante și frumoase, și un important stil de modă pentru bărbați. De fapt, mulți bărbați încep să îl poarte din ce în ce mai des în weekend. Accesorizarea, totuși, este la fel de importantă precum purtarea costumului în sine. În acest articol vă vom prezenta cele mai populare și bune articole pe care trebuie să le aveți atunci când purtați un costum.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;h1 id=&quot;cravata&quot;&gt;Cravata&lt;/h1&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;Un costum bărbătesc este pur și simplu incomplet fără cravată. Indiferent de locul unde purtați costumul, alegeți-vă cu atenție cravata pentru a accentua, dar nu distrage atenția de la ținuta generală. O cravată de mătase cu un model potrivit, cum ar fi dungi sau puncte, este potrivită pentru un costum care anunță o întâlnire de afaceri, în timp ce cravatele în culori aprinse și modele îndrăznețe vă arată personalitatea în afara întâlnirilor de afaceri. Învață mai multe despre cum poți asorta cravata cu cămașa sau sacoul în &lt;a href=&quot;https://blog.tomboxshop.com/costum/2018/02/05/reguli-costum.html&quot;&gt;acest articol&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;h1 id=&quot;batista-de-buzunar&quot;&gt;Batista de buzunar&lt;/h1&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Acesta este un accesoriu foarte bun care adaugă culoare și personalitate costumului tău. Este bine să vă asortați cravatele și batistele prin intermediul unor &lt;a href=&quot;https://www.tomboxshop.com/seturi&quot; target=&quot;_blank&quot;&gt;seturi&lt;/a&gt; personalizate pentru ca, puse împreună, să vă ofere un aspect curat și elegant. Alegeți o batistă de buzunar care să se potrivească cu o culoare mai aprinsă de pe cravată sau una neutră pentru a echilibra contrastul.&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;h1 id=&quot;butonii&quot;&gt;Butonii&lt;/h1&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;Acest accseoriu poate fi purtat numai cu manșete franțuzești și adaugă o notă fină de stil costumului tău. Având în vedere că manșetele franțuzești sunt din ce în ce mai populare, este ușor să adăugați butonii printre accesorii atunci când purtați un costum. Alegeți o pereche sofisticată cu detalii fine atunci când aveți o întâlnire importantă și una simplă atunci când ieșiți cu prietenii în oraș.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h1 id=&quot;ceasul&quot;&gt;Ceasul&lt;/h1&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;Ceasul cu siguranță nu trebuie să lipsească și acesta trebuie să fie cel puțin la fel de elegant ca și costumul pe care îl purtați. Pentru zilele la birou este bine să porți un ceas cu funcții multiple pentru a vă putea folosi cât mai mult de el pe timpul zilei. Dacă mergi la o nuntă sau o petrecere recomandăm să porți un ceas simplu.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;acul-de-cravată&quot;&gt;Acul de cravată&lt;/h1&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Un &lt;a href=&quot;https://www.tomboxshop.com/ace-de-cravata&quot; target=&quot;_blank&quot;&gt;ac de cravată&lt;/a&gt; nu este doar un detaliu la modă ci este și funcțional. Funcționează pentru a vă menține cravata îngrijită și neșifonată pe tot parcursul zilei. Acestea nu vor deteriora cravata și o vor menține lipită de cămașă.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
+        <link>http://localhost:4000/costum/2018/06/12/first-mass-produced.html</link>
+        <guid isPermaLink="true">http://localhost:4000/costum/2018/06/12/first-mass-produced.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>costum</category>
         
       </item>
     
       <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+        <title>Vezi câteva sfaturi pentru un date perfect</title>
+        <description>&lt;p&gt;Există multe întrebări care vă macină în timpul și după o întâlnire, motiv pentru care am decis să facem o listă cu câteva sfaturi pentru bărbați care vă vor asigura succesul la următoarea întâlnire.&lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;Întâlnirile pot fi un lucru foarte dificil. Ce ar trebui să port? Unde ar trebuie să ieșim? Cât te multe ar trebui să spun? Cine trebuie să plătească? Cât de curând ar trebui să revin cu un mesaj după întâlnire?&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&quot;1prima-impresie-este-foarte-importantă&quot;&gt;1.Prima impresie este foarte importantă&lt;/h1&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;Blugii tăi rupți pot fi norocoși, dar nu uita, asta va fi prima impresie pe care o vei lăsa la prima întâlnire. Este adevărat, nu trebuie să te prefaci că ești altcineva decât cine ești cu adevărat, dar o fată vrea să vadă că ai grijă să alegi bine cu ce te îmbraci. Nu îți face griji, asta nu înseamnă că la prima întâlnire trebuie să mergi îmbrăcat la costum, dar dacă porți ceva care ți se potrivește te va ajuta să lași o impresie bună.&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+&lt;h1 id=&quot;2alege-un-loc-unde-te-simți-confortabil&quot;&gt;2.Alege un loc unde te simți confortabil&lt;/h1&gt;
+
+&lt;p&gt;Dacă ți-a cerut să alegi tu locul în care urmează să vă întâlniți, alege să mergi undeva unde îți place și unde știi că atmosfera este pe placul tău. Asta te va ajuta să te simți mult mai confortabil. Cu toatea acetea, poți evita localul favorit unde ieși cu prietenii la cafea, deoarece întâlnirea cu aceștia te poate distrage de la întâlnirea pe care o ai.&lt;/p&gt;
+
+&lt;h1 id=&quot;3fii-încrezător&quot;&gt;3.Fii încrezător&lt;/h1&gt;
+
+&lt;p&gt;Cu siguranță încrederea în tine va fi observată și va atrage. Dacă ești timid, încearcă să porți conversații dese cu oameni pe care nu îi cunoști (la magazinul de pe colț, în timpul drumul pe metrou/microbuz spre casă etc), sau, în timpul întâlnirii, vorbește despre un subiect care te pasionează cu adevărat. Ea va simți încrederea pe care o ai în timp ce vorbești despre asta. Mulți oameni pot fi, de asemenea, timizi din cauza aspectului lor. Poate nu ești înalt și ai abdomenul la care visezi, dar este mult mai important pentru o femeie să vadă că te simți confortabil în pielea ta.&lt;/p&gt;
+
+&lt;h1 id=&quot;4nu-vorbi-doar-tu&quot;&gt;4.Nu vorbi doar tu&lt;/h1&gt;
+
+&lt;p&gt;Asigură-te că nu ești singurul care vorbește. Dacă această întâlnire iese bine, cu siguranță vei mai avea și alte ocazii în care să spui tot ce ai vrea
+încă de la prima întrevedere. Nu te speria de pauze și adresează-i întrebări din când în când. Este important să asculți pentru că asta îi va arăta că te interesează ceea ce spune.&lt;/p&gt;
+
+&lt;h1 id=&quot;5ține-o-conversație-amuzantă&quot;&gt;5.Ține o conversație amuzantă&lt;/h1&gt;
+
+&lt;p&gt;La prima întâlnire nu vrei să începi să te plângi prin lucruri precum de ce nu îți place actualul loc de muncă sau diverse probleme pe care le ai. Da, este bine să fii serios, dar la primele întâlniri ar fi bine să fii amuzant și să induci o atmosferă plăcută.&lt;/p&gt;
+
+&lt;h1 id=&quot;6nu-vorbi-despre-fosta-ta-iubită&quot;&gt;6.Nu vorbi despre fosta ta iubită&lt;/h1&gt;
+
+&lt;p&gt;Este periculos să vorbești despre fosta ta iubită. Cel mai bine este să evitați total această converație pentru a nu transforma întâlnirea în una în care să nu te simți comod. Dacă fata cu care ai ieșit aduce acest subiec la suprafață, nu îl evita, dar încearcă să dai răspunsuri scurte fără prea multe detalii. Adu-i aminte că trecutul nu mai poate fi schimbat și că e mult mai important să vezi ce poți face mai bine în viitor.&lt;/p&gt;
+
+&lt;h1 id=&quot;7închide-ți-telefonul&quot;&gt;7.Închide-ți telefonul&lt;/h1&gt;
+
+&lt;p&gt;Sau cel puțin dă-l pe silențios. Nu e nimic mai enervant decât un telefon care sună în timp ce petreci timp de calitate cu prietenii, sau atunci când ești la o întâlnire. Lasă telefonul în buzunar sau în geantă pe tot parcursul întâlnirii. Ea va aprecia știind că ești într-adevăr interesat de ceea ce vorbiți.&lt;/p&gt;
+
+&lt;h1 id=&quot;8tu-trebuie-să-plătești&quot;&gt;8.Tu trebuie să plătești&lt;/h1&gt;
+
+&lt;p&gt;Multe femei doresc să plătească partea ei din notă. Este recomandat să plătești tu nota pentru că, presupun, tu ești cel care a lansat invitația și nu invers.&lt;/p&gt;
+
+&lt;h1 id=&quot;9încheie-cinstit&quot;&gt;9.Încheie cinstit&lt;/h1&gt;
+
+&lt;p&gt;E posibil să nu îți fi plăcut și să nu vrei o a doua întâlnire. Dacă se întâmplă asta, nu spune “ne auzim” sau “vorbim”. Nu faci decât să o rănești și să se simtă prost. Spune-i că a fost o seară excelentă. Dacă nu vrei să vă mai vedeți, nu te juca.&lt;/p&gt;
+
+&lt;p&gt;Sperăm că acest articol v-a ajutat și că vă va oferi mai multă încredere la următoarea voastră întâlnire.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/jekyll/tutorial/2018/06/12/first-mass-produced.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/06/12/first-mass-produced.html</guid>
+        <link>http://localhost:4000/via%C8%9B%C4%83/2018/06/12/date-perfect.html</link>
+        <guid isPermaLink="true">http://localhost:4000/via%C8%9B%C4%83/2018/06/12/date-perfect.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>viață</category>
         
       </item>
     
       <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+        <title>30 de citate care te vor inspira în viață și în afaceri</title>
+        <description>&lt;p&gt;Ce este succesul? Există multe definiții, dar există un lucru cu care toți oamenii de succes sunt de acord: Succesul vine atunci când ești perseverent în ciuda eșecului.&lt;/p&gt;
 
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;p&gt;În continuare vă vom prezenta 30 de citate care vă vor ajuta să atingeți succesul în ciuda eșecurilor și barierelor.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;1.Succesul nu este final; Eșecul nu este fatal: este curajul de a continua care contează.&lt;/u&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;– Winston S. Churchill&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;2.Este mai bine să eșuezi în originalitate decât să reușești în imitație&lt;/u&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;– Herman Melville&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;&lt;u&gt;3.Drumul spre succes și drumul spre eșec sunt aproape la fel.&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;– Colin R. Davis&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;u&gt;4.Succesul vine, de obicei, la cei care sunt prea ocupați să-l caute.&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;– Henry David Thoreau&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;5.Oportunitățile nu se întâmplă. Le creezi.&lt;/u&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt;– Chris Grosser&lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;6.Să nu îți fie frică să renunți la bine pentru a ajunge la excelență.&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;– John D. Rockefeller&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt;&lt;u&gt;7.Observ că, cu cât muncesc mai mult, cu atât pare să am mai mult noroc.&lt;/u&gt;&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;p&gt;– Thomas Jefferson&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;8.&quot;Există două tipuri de oameni care vă vor spune că nu puteți face o diferență în această lume: cei care se tem să încerce și cei care se tem că veți reuși&quot;.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Ray Goforth&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;9.Oamenii de succes fac ceea ce cei fără succes nu doresc să facă. Nu îți dori să fie mai ușor. Dorește-ți să fii mai bun.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Jim Rohn&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;10. Încearcă să nu devii un om de succes. Mai degrabă devin-o un om de valoare.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Albert Einstein&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;11. Opriți urmărirea banilor și începeți să urmăriți pasiunea.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Tony Hsieh&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;12. Succesul este mersul pe jos de la eșec la eșec fără pierderea entuziasmului&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Winston Churchill&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;13. Îmi datorez succesul pentru că am ascultat cu respect cele mai bune sfaturi și apoi am plecat și am făcut exact contrariul.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– G. K. Chesterton&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;14. Vrei să-ți dau o formulă pentru succes? Este destul de simplu, într-adevăr: dublați rata de eșec. Te gândești la eșec ca dușmanul succesului. Dar nu este deloc așa. Poți fi descurajat de eșec sau poți învăța din el, așa că du-te și fă greșeli. Fă tot ce poți. Pentru că aminteșteți că acolo vei găsi succes.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Thomas J. Watson&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;15. Dacă nu ești dispus să riști obișnuitul, va trebui să rămâi la obișnuit.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Jim Rohn&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;16.Cei care sunt destul de nebuni să creadă că pot schimba lumea, sunt cei care o fac.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Anonim&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;17. Faceți un lucru care vă sperie în fiecare zi.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Anonim&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;18. Toate progresele au loc în afara zonei de confort.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Michael John Bobak&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;19. Oamenii care au succes au un impuls. Cu cât reușesc mai mult, cu atât vor mai mult să reușească și cu atât mai mult găsesc o cale de a reuși. În mod similar, atunci când cineva nu reușește, tendința este de a ajunge într-o spirală descendentă, care poate chiar să devină o profeție.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Tony Robbins&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;20. Nu lăsați teama de a pierde să fie mai mare decât entuziasmul de a câștiga&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Robert Kiyosaki&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;21. Dacă vă uitați atent, cele mai multe succese de peste noapte au durat foarte mult.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Steve Jobs&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;22. Singura limită a realizării noastre de mâine va fi îndoiala noastră de azi.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Franklin D. Roosevelt&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;23. Modalitatea de a începe este să renunțați la vorbit și să începeți să faceți.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Walt Disney&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;24. Războinicul de succes este omul obișnuit, cu focalizare laser.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;–  Bruce Lee&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;25. Nu există secrete pentru succes. Este rezultatul pregătirii, a muncii grele și a învățării din eșec.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Colin Powell&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;26. Succesul pare să fie legat de acțiune. Persoanele cu succes continuă să se miște. Ei fac greșeli, dar nu renunță.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Conrad Hilton&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;27. Dacă chiar vrei să faci ceva, vei găsi o cale. Dacă nu, vei găsi o scuză.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Jim Rohn&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;28. Nu vă pot da o formulă pentru succes, dar vă pot da una pentru eșec: Încercați să mulțumiți pe toată lumea.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Herbert Bayard Swope&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;29. Succesul nu este cheia fericirii. Fericirea este cheia succesului. Dacă vă place ceea ce faceți, veți avea și succes.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Albert Schweitzer&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;30. Succesul nu este doar despre ceea ce realizați în viața voastră; este vorba despre ceea ce îi inspirați pe ceilalți să facă.&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;– Anonim&lt;/p&gt;
+
+&lt;p&gt;Care este citatul tău preferat?&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/jekyll/tutorial/2018/06/12/education.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/tutorial/2018/06/12/education.html</guid>
+        <link>http://localhost:4000/via%C8%9B%C4%83/2018/06/12/citate-business.html</link>
+        <guid isPermaLink="true">http://localhost:4000/via%C8%9B%C4%83/2018/06/12/citate-business.html</guid>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>viață</category>
         
       </item>
     

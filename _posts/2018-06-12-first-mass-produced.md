@@ -1,16 +1,32 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/17.jpg
+title:  "Top 5 accesorii pe care trebuie să le porți la costum"
+author: tombox
+categories: [ costum ]
+image: assets/images/top.jpeg
+img: assets/images/tie-clip-market.png
+imgHREF: https://www.tomboxshop.com/ace-de-cravata/ac-cravata-foarfeca.html
+
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+Costumele bărbătești sunt elegante și frumoase, și un important stil de modă pentru bărbați. De fapt, mulți bărbați încep să îl poarte din ce în ce mai des în weekend. Accesorizarea, totuși, este la fel de importantă precum purtarea costumului în sine. În acest articol vă vom prezenta cele mai populare și bune articole pe care trebuie să le aveți atunci când purtați un costum.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+# Cravata
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Un costum bărbătesc este pur și simplu incomplet fără cravată. Indiferent de locul unde purtați costumul, alegeți-vă cu atenție cravata pentru a accentua, dar nu distrage atenția de la ținuta generală. O cravată de mătase cu un model potrivit, cum ar fi dungi sau puncte, este potrivită pentru un costum care anunță o întâlnire de afaceri, în timp ce cravatele în culori aprinse și modele îndrăznețe vă arată personalitatea în afara întâlnirilor de afaceri. Învață mai multe despre cum poți asorta cravata cu cămașa sau sacoul în [acest articol](https://blog.tomboxshop.com/costum/2018/02/05/reguli-costum.html).
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+# Batista de buzunar
+
+Acesta este un accesoriu foarte bun care adaugă culoare și personalitate costumului tău. Este bine să vă asortați cravatele și batistele prin intermediul unor [seturi](https://www.tomboxshop.com/seturi){:target="_blank"} personalizate pentru ca, puse împreună, să vă ofere un aspect curat și elegant. Alegeți o batistă de buzunar care să se potrivească cu o culoare mai aprinsă de pe cravată sau una neutră pentru a echilibra contrastul.
+
+# Butonii
+
+Acest accseoriu poate fi purtat numai cu manșete franțuzești și adaugă o notă fină de stil costumului tău. Având în vedere că manșetele franțuzești sunt din ce în ce mai populare, este ușor să adăugați butonii printre accesorii atunci când purtați un costum. Alegeți o pereche sofisticată cu detalii fine atunci când aveți o întâlnire importantă și una simplă atunci când ieșiți cu prietenii în oraș.
+
+# Ceasul
+
+Ceasul cu siguranță nu trebuie să lipsească și acesta trebuie să fie cel puțin la fel de elegant ca și costumul pe care îl purtați. Pentru zilele la birou este bine să porți un ceas cu funcții multiple pentru a vă putea folosi cât mai mult de el pe timpul zilei. Dacă mergi la o nuntă sau o petrecere recomandăm să porți un ceas simplu.
+
+# Acul de cravată
+
+Un [ac de cravată](https://www.tomboxshop.com/ace-de-cravata){:target="_blank"} nu este doar un detaliu la modă ci este și funcțional. Funcționează pentru a vă menține cravata îngrijită și neșifonată pe tot parcursul zilei. Acestea nu vor deteriora cravata și o vor menține lipită de cămașă.

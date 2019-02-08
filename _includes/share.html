@@ -27,4 +27,11 @@
         </li>
     </ul>
     {% endif %}
+
+    {% if page.img %}
+    <a href="{{ page.imgHREF }}" target="_blank">
+     <img src="../../../../{{ page.img }}">
+   </a>
+
+   {% endif %}
 </div>

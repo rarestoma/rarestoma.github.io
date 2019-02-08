@@ -8,7 +8,7 @@ License: https://www.wowthemes.net/freebies-license/
      padding:1rem 0rem;
 }
  a {
-     color:#2a3b59;
+     color:#94bbff;
      transition:all 0.2s;
 }
  a:hover {
@@ -367,6 +367,12 @@ License: https://www.wowthemes.net/freebies-license/
  .share,.share a {
      color:rgba(0,0,0,.44);
      fill:rgba(0,0,0,.44);
+}
+
+.share img{
+  margin-top: 20px;
+  border: 1px solid #dedede;
+  width: 150px;
 }
  .graybg {
      background-color:#fafafa;
