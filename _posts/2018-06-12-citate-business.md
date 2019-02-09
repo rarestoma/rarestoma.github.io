@@ -4,6 +4,9 @@ title:  "30 de citate care te vor inspira în viață și în afaceri"
 author: tombox
 categories: [ viață ]
 image: assets/images/idea.jpeg
+img: assets/images/3-acc.png
+imgHREF: https://www.tomboxshop.com/seturi-3-accesorii
+keywords: citate viata, citate afaceri, citate business, motivational, succesul, secretele succesului, esec, citate churchill, bill gates, steve jobs, sfaturi viata
 ---
 
 Ce este succesul? Există multe definiții, dar există un lucru cu care toți oamenii de succes sunt de acord: Succesul vine atunci când ești perseverent în ciuda eșecului.

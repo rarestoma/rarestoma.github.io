@@ -6,6 +6,7 @@ categories: [ costum ]
 image: assets/images/top.jpeg
 img: assets/images/tie-clip-market.png
 imgHREF: https://www.tomboxshop.com/ace-de-cravata/ac-cravata-foarfeca.html
+keywords: costume elegante, asortare cravata, butoni, sosete, ace de cravata, blog TOMbox, batista de buzunar, accesorii barbati, ceasul
 
 ---
 
