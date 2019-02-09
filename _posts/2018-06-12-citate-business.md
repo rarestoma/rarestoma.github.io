@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "30 de citate care te vor inspira în viață și în afaceri"
-author: john
+author: tombox
 categories: [ viață ]
 image: assets/images/idea.jpeg
 ---
@@ -38,7 +38,7 @@ Ce este succesul? Există multe definiții, dar există un lucru cu care toți o
 
  -- Thomas Jefferson
 
- <u>8."Există două tipuri de oameni care vă vor spune că nu puteți face o diferență în această lume: cei care se tem să încerce și cei care se tem că veți reuși".</u>
+ <u>8.Există două tipuri de oameni care vă vor spune că nu puteți face o diferență în această lume: cei care se tem să încerce și cei care se tem că veți reuși.</u>
 
  -- Ray Goforth
 

@@ -19,7 +19,7 @@ Primul lucru pe care trebuie să îl iei în considerare este să vezi ce costum
 
 ### Slim Fit
 
-Cel mai popular și potrivit pentru majoritatea bărbaților este costumul slim fit. Cu o croială slim de la umeri până la brâu, sacoul unui costum slim va oferi un mare confort. Acest tip de costum este ideal pentru bărbații cu corpul atletic.
+Cel mai popular și potrivit pentru majoritatea bărbaților este costumul slim fit. Cu o croială slim de la umeri până la brâu, sacoul unui astfel de costum va oferi un mare confort. Acest tip este ideal pentru bărbații cu corpul atletic.
 
 ### Skinny Fit
 

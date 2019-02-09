@@ -11,21 +11,21 @@ hidden: true
 
 Arta de a asorta costumele și cămășile este un lucru care i-a pus în dificultate pe cei mai buni oameni ai modei pentru mulți ani de zile.
 
-Am crescut urmărind diferite sporturi și filme. Am jucat baschet și băteam mingea pe terenul de fotbal zi de zi. Dar niciodată nu am învățat
+Am crescut urmărind diferite sporturi și filme. Am jucat baschet și băteam mingea pe terenul de fotbal zi de zi, dar niciodată nu am învățat
 despre teoria culorilor sau despre ce tip de haine se potrivesc cu anumite articole vestimentare. Nu am avut nicio idee. Nici nu părea să
 ne pese.
 
 Evoluția în potențialul nostru cel mai înalt ca gentleman necesită o atenție fină la detalii.
 
-În crearea acestui articol am folosit 3 pași principai pe care trebuie să îi urmărim atunci când dorim să asortăm cravata cu costumul
-sau cu cămașa.
+În crearea acestui articol am folosit 3 pași principali pe care trebuie să îi urmărim atunci când dorim să asortăm cravata cu costumul
+sau cămașa.
 
 ##### 1. Teoria culorilor
 ##### 2. Îmbinarea modelelor
 ##### 3. Considerații tonale
 
 
-# <u>Teoria culorilor</u>: potrivirea culorii cravatei cu cea a costumul sau a cămășii
+# <u>Teoria culorilor</u>: potrivirea culorii cravatei cu cea a costumului sau a cămășii
 
 Primul pas în asortarea cravatei este culoarea. Culoarea poate părea prea puțin importantă pentru mulți dintre noi. Așadar, vă prezentăm roata de culori.
 Aceasta ne ajută să înțelegem mai ușor culorile care se împart în două mari categorii: culori calde și reci.
@@ -40,7 +40,7 @@ Așa cum am menționat mai sus, roata de culori împarte culorile în două cate
 
 ## Schema de culori monocromatică
 
-Acesta este cel mai simplu mod de a începe să experimentați culoarea și de asemenea cea mai conservatoare schemă de culori. O schemă de culoare monocromatică potrivește variantele mai întunecate de culori cu cele mai aprinse(de exemplu o cravată navi cu o cămașă albastru deschis). Această schema te va ajuta să arătați elegant și sofisticat, fără a te scoate neapărat din zona ta de confort.
+Acesta este cel mai simplu mod de a începe să experimentați culoarea și de asemenea cea mai conservatoare schemă de culori. O schemă de culoare monocromatică potrivește variantele mai întunecate de culori cu cele mai aprinse(de exemplu o cravată navi cu o cămașă albastru deschis). Această schemă te va ajuta să arătați elegant și sofisticat, fără a te scoate neapărat din zona ta de confort.
 
 ![alt text](../../../../assets/images/navy.jpg)
 
@@ -56,13 +56,13 @@ Un exemplu ar fi purtarea unei cravate mov cu o cămașă albastră. Schemele de
 
 Sistemul de culori triadic implică alegerea culorilor care formează un triunghi de-a lungul roții de culoare. Astfel, avem acum o schemă de culori care implică armonie (creând un echilibru între culorile calde și reci). Prin urmare, schemele de culori triadice sunt albastru, roșu și galben sau verde, portocaliu și purpuriu. În timp ce ambele scheme de culori implică atât culori calde, cât și reci, contrastul nu este la fel de puternic ca în cazul unei scheme complementare de culori. Această schemă de culori atractivă este o modalitate excelentă de a introduce culoarea în garderoba ta.
 
-Culorile triadice au fost cu siguranță încercate de mulți dintre voi. Acesta este motivul pentru care o rochie roșie arată minunat alături de un tricou albastru sau galben închis. O schemă de culori triadică este o una extrem de profesională, dar versatilă și poate fi utilizată la locul de muncă, în medii profesionale cum ar fi întâlniri sau prezentări și pentru evenimente sociale formale, cum ar fi o nuntă.
+Culorile triadice au fost cu siguranță încercate de mulți dintre voi. Acesta este motivul pentru care o pereche de blugi albastră arată minunat alături de un tricou roșu sau galben. O schemă de culori triadică este o una extrem de profesională, dar versatilă și poate fi utilizată la locul de muncă, în medii profesionale cum ar fi întâlniri sau prezentări și pentru evenimente sociale formale, cum ar fi o nuntă.
 
 ![alt text](../../../../assets/images/red-t.jpg)
 
 ## Culori complementare
 
-Acestea sunt culorile cele mai izbitoare de contrast și sunt opuse în schema de culori. Prin urmare, culoarea aflată în contrat cu albastru este cea portocalie, culoarea complementară celei rosii este verde, iar culoarea complementară celei galbene este violet. Este important că aceste culori formează contrastul cel mai puternic.
+Acestea sunt culorile cele mai izbitoare de contrast și sunt opuse în schema de culori. Prin urmare, culoarea aflată în contrast cu albastru este cea portocalie, culoarea complementară celei rosii este verde, iar culoarea complementară celei galbene este violet. Este important că aceste culori formează contrastul cel mai puternic.
 
 Culorile complementare se potrivesc evenimentolor sociale deoarece îndrăzneala lor poate părea neadecvată la locul de muncă sau în anumite întâlniri profesionale.
 
@@ -89,7 +89,7 @@ Dacă purtați un costum gri colorat cu o cămașă albastră dungată, o cravat
 
 ![alt text](../../../../assets/images/diff.jpg)
 
-În loc să folosiți o cravată cu dungi mai rare, puteți opta pentru una cu buline sau flori. Din nou, așa cum este cazul de mai sus, proporția modelului este are o mare importanță, chiar și atunci când cele două modele sunt complet diferite.
+În loc să folosiți o cravată cu dungi mai rare, puteți opta pentru una cu buline sau flori. Din nou, așa cum este cazul de mai sus, proporția modelului are o mare importanță, chiar și atunci când cele două modele sunt complet diferite.
 
 ## 3. Îmbinarea unei cămăși cu model alături de o cravată într-o singură culoare
 
@@ -102,6 +102,6 @@ Ca o alternativă la cele două metode de potrivire a modelelor de cravată prez
 
 Acum, că am acoperit teoria culorilor și considerentele de model, putem acorda atenție în cele din urmă problemelor tonale. Considerațiile tonale se referă la modul în care îmbinarea cravatei cu cămașa sunt ca articole de îmbrăcăminte de sine stătătoare.
 
-Un cămașă cu contrast scăzut se referă la o cămașă care apare mai simplă în aparență. Aceste cămăși sunt concepute preponderent cu o culoare majoră și o culoare minoră, culoarea minoră fiind de o valoare neglijabilă și, prin urmare, nu se poate ciocni cu culoarea majoră.
+O cămașă cu contrast scăzut se referă la o cămașă care pare mai simplă în aparență. Aceste cămăși sunt concepute preponderent cu o culoare majoră și o culoare minoră, culoarea minoră fiind de o valoare neglijabilă și, prin urmare, nu se poate distinge de culoarea majoră.
 
 Cu toate acestea, o cămașă de acest gen va apărea din depărtare că are o singură culoare, dar, după o inspecție mai atentă, va prezenta mai mult de o culoare sau un design subtil, cum ar fi dungi slabe. Ceea ce creează, atunci când este asociată cu o cravată tonală mai mare, este contrastul vizual.
