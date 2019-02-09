@@ -7,7 +7,7 @@ image: assets/images/suit.jpeg
 featured: true
 hidden: true
 img: assets/images/2ties.png
-imgHREF: https://www.tomboxshop.com/cravate/set-2-cravate.html
+imgHREF: https://www.tomboxshop.com/cravate/set-2-cravate.html/?ref=blog
 keywords: reguli costum, costume barbati, slim fit, skinny fit, lungimea pantalonilor, detalii costum, detaliile conteaza, mansete camasa
 ---
 

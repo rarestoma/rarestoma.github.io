@@ -7,7 +7,7 @@ image: assets/images/tie-suit.jpeg
 featured: true
 hidden: true
 img: assets/images/green.png
-imgHREF: https://www.tomboxshop.com/seturi/set-5-accesorii.html
+imgHREF: https://www.tomboxshop.com/seturi/set-5-accesorii.html/?ref=blog
 keywords: reguli costum, costum barbati, teoria culorilor, imbinarea modelelor, consideratii tonale, roata culorii, asortare cravata costum, culori monocromatice, monocromatic, culori complementare
 ---
 

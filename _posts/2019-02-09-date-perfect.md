@@ -5,7 +5,7 @@ author: tombox
 categories: [ viață ]
 image: assets/images/date.jpeg
 img: assets/images/set5-99.png
-imgHREF: https://www.tomboxshop.com/seturi-5-accesorii/set-5-accesorii-6.html
+imgHREF: https://www.tomboxshop.com/seturi-5-accesorii/set-5-accesorii-6.html/?ref=blog
 keywords: sfaturi date, sfaturi intalnire, date perfect, intalnire cu fete, prima impresie, iubire, conversatie amuzanta, cine plateste
 ---
 

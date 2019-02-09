@@ -5,7 +5,7 @@ author: tombox
 categories: [ viață ]
 image: assets/images/idea.jpeg
 img: assets/images/3-acc.png
-imgHREF: https://www.tomboxshop.com/seturi-3-accesorii
+imgHREF: https://www.tomboxshop.com/seturi-3-accesorii/?ref=blog
 keywords: citate viata, citate afaceri, citate business, motivational, succesul, secretele succesului, esec, citate churchill, bill gates, steve jobs, sfaturi viata
 ---
 
