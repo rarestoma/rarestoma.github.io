@@ -49,7 +49,7 @@ Ce este succesul? Există multe definiții, dar există un lucru cu care toți o
 
  -- Jim Rohn
 
- <u>10. Încearcă să nu devii un om de succes. Mai degrabă devin-o un om de valoare.</u>
+ <u>10. Încearcă să nu devii un om de succes. Mai degrabă devino un om de valoare.</u>
 
  -- Albert Einstein
 
@@ -65,7 +65,7 @@ Ce este succesul? Există multe definiții, dar există un lucru cu care toți o
 
  -- G. K. Chesterton
 
- <u>14. Vrei să-ți dau o formulă pentru succes? Este destul de simplu, într-adevăr: dublați rata de eșec. Te gândești la eșec ca dușmanul succesului. Dar nu este deloc așa. Poți fi descurajat de eșec sau poți învăța din el, așa că du-te și fă greșeli. Fă tot ce poți. Pentru că aminteșteți că acolo vei găsi succes.</u>
+ <u>14. Vrei să-ți dau o formulă pentru succes? Este destul de simplu, într-adevăr: dublați rata de eșec. Te gândești la eșec ca dușmanul succesului. Dar nu este deloc așa. Poți fi descurajat de eșec sau poți învăța din el, așa că du-te și fă greșeli. Fă tot ce poți. Pentru că amintește-ți că acolo vei găsi succes.</u>
 
  -- Thomas J. Watson
 
