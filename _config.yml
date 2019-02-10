@@ -1,11 +1,11 @@
 # Site
 name: "Blogul TOMbox"
 description: "Află totul despre moda masculină"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+meta_description: "Blogul oficial TOMbox. Afla totul despre moda masculina"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 
-baseurl: /tombox
+baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'http://eepurl.com/dPrjHb'
