@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Află totul despre moda masculină</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Feb 2019 14:10:15 +0200</pubDate>
-    <lastBuildDate>Sun, 10 Feb 2019 14:10:15 +0200</lastBuildDate>
+    <link>/tombox/</link>
+    <atom:link href="/tombox/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Feb 2019 18:30:28 +0200</pubDate>
+    <lastBuildDate>Sun, 10 Feb 2019 18:30:28 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -44,8 +44,8 @@
 &lt;p&gt;Un &lt;a href=&quot;https://www.tomboxshop.com/ace-de-cravata&quot; target=&quot;_blank&quot;&gt;ac de cravată&lt;/a&gt; nu este doar un detaliu la modă, ci este și funcțional. Funcționează pentru a vă menține cravata îngrijită și neșifonată pe tot parcursul zilei. Acestea nu vor deteriora cravata și o vor menține lipită de cămașă.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Feb 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/costum/2019/02/09/top5-accesorii.html</link>
-        <guid isPermaLink="true">http://localhost:4000/costum/2019/02/09/top5-accesorii.html</guid>
+        <link>/tombox/costum/2019/02/09/top5-accesorii.html</link>
+        <guid isPermaLink="true">/tombox/costum/2019/02/09/top5-accesorii.html</guid>
         
         
         <category>costum</category>
@@ -98,8 +98,8 @@
 &lt;p&gt;Sperăm că acest articol v-a ajutat și că vă va oferi mai multă încredere la următoarea voastră întâlnire.&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Feb 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/via%C8%9B%C4%83/2019/02/09/date-perfect.html</link>
-        <guid isPermaLink="true">http://localhost:4000/via%C8%9B%C4%83/2019/02/09/date-perfect.html</guid>
+        <link>/tombox/via%C8%9B%C4%83/2019/02/09/date-perfect.html</link>
+        <guid isPermaLink="true">/tombox/via%C8%9B%C4%83/2019/02/09/date-perfect.html</guid>
         
         
         <category>viață</category>
@@ -235,8 +235,8 @@
 &lt;p&gt;Care este citatul tău preferat?&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Feb 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/via%C8%9B%C4%83/2019/02/09/citate-business.html</link>
-        <guid isPermaLink="true">http://localhost:4000/via%C8%9B%C4%83/2019/02/09/citate-business.html</guid>
+        <link>/tombox/via%C8%9B%C4%83/2019/02/09/citate-business.html</link>
+        <guid isPermaLink="true">/tombox/via%C8%9B%C4%83/2019/02/09/citate-business.html</guid>
         
         
         <category>viață</category>
@@ -278,8 +278,8 @@
 &lt;p&gt;&lt;img src=&quot;../../../../assets/images/trousers.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Feb 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/costum/2019/02/06/reguli-majore-costum.html</link>
-        <guid isPermaLink="true">http://localhost:4000/costum/2019/02/06/reguli-majore-costum.html</guid>
+        <link>/tombox/costum/2019/02/06/reguli-majore-costum.html</link>
+        <guid isPermaLink="true">/tombox/costum/2019/02/06/reguli-majore-costum.html</guid>
         
         
         <category>costum</category>
@@ -383,8 +383,8 @@ Aceasta ne ajută să înțelegem mai ușor culorile care se împart în două m
 &lt;p&gt;Cu toate acestea, o cămașă de acest gen va apărea din depărtare că are o singură culoare, dar, după o inspecție mai atentă, va prezenta mai mult de o culoare sau un design subtil, cum ar fi dungi slabe. Ceea ce creează, atunci când este asociată cu o cravată tonală mai mare, este contrastul vizual.&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Feb 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/costum/2019/02/05/reguli-costum.html</link>
-        <guid isPermaLink="true">http://localhost:4000/costum/2019/02/05/reguli-costum.html</guid>
+        <link>/tombox/costum/2019/02/05/reguli-costum.html</link>
+        <guid isPermaLink="true">/tombox/costum/2019/02/05/reguli-costum.html</guid>
         
         
         <category>costum</category>
