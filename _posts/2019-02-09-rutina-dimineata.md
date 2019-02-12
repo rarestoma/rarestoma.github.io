@@ -6,10 +6,7 @@ categories: [ viață ]
 image: assets/images/morning.jpeg
 img: assets/images/red.png
 imgHREF: https://www.tomboxshop.com/seturi-4-accesorii/set-4-accesorii-13.html/?ref=blog
-keywords: morning people, trezit de dimineata, rutina zilnica, dimineata productiva, bufnite de noapte, dormit, dorm, dorm suficient,
-trezeste-te devreme, castiga dimineata, fa sport, cititul, zi productiva, planurile zilei, experti in productivitate, zi de lucru,
-cititi inspirational, bea cafea, bea apa
-
+keywords: morning people, trezit de dimineata, rutina zilnica, dimineata productiva, bufnite de noapte, dormit, dorm, dorm suficient, trezeste-te devreme, castiga dimineata, fa sport, cititul, zi productiva, planurile zilei, experti in productivitate, zi de lucru, cititi inspirational, bea cafea, bea apa
 ---
 
 
