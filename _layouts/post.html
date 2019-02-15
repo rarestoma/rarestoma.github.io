@@ -37,9 +37,13 @@ post_class: post-template
   gtag('config', 'UA-128434614-1');
 </script>
 
+
+
 {% seo %}
 <meta name="keywords" content="{{ page.keywords }}">
 
+<div id="fb-root"></div>
+<script async defer src="https://connect.facebook.net/ro_RO/sdk.js#xfbml=1&version=v3.2"></script>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -148,7 +152,7 @@ post_class: post-template
 			<!-- Post -->
 					{% assign author = site.authors[page.author] %}
 
-			<div class="col-md-9 flex-first flex-md-unordered">
+			<div class="col-md-8">
 				<div class="mainheading">
 
 									<!-- Author Box -->
@@ -214,6 +218,10 @@ post_class: post-template
 
 			</div>
 			<!-- End Post -->
+
+      <div class="col-md-2">
+        <div class="fb-page" data-href="https://www.facebook.com/tomboxshop/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/tomboxshop/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/tomboxshop/">TOMbox</a></blockquote></div>
+      </div>
 
 		</div>
 	</div>
