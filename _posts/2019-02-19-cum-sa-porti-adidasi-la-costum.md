@@ -6,7 +6,7 @@ categories: [ costum ]
 image: assets/images/suit-sneakers.jpg
 img: assets/images/low.png
 imgHREF: https://www.tomboxshop.com/cravate/cravata-brodata-verde-cu-detalii-crem-si-rosii.html/?ref=blog
-keywords: sala de sport, lenes, fitness, banca de la subsol, flotari, abdomene, mancat sanatos, sala de forță, în formă, timp, canapea, televizor, exercitii fizice, aspect fizic, vreau sa slabesc, cum sa pierd greutate, relatii, arat bine, fructe, legume, prieteni sportivi, viata sportiva, pierde din greutate
+keywords: adidasi, costum, adidasi la costum, costume barbati, costume sport, tinuta de vara, tinuta lejere, asortare adidasi la costum, sneakers, pantofi, tenesi, tenisi, pantaloni, sacou
 
 ---
 
