@@ -33,6 +33,10 @@
 <lastmod>2019-02-14T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/costum/2019/02/19/cum-sa-porti-adidasi-la-costum.html</loc>
+<lastmod>2019-02-19T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
@@ -43,5 +47,16 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/via%C8%9B%C4%83/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/images/sneakers-suit.htm</loc>
+<lastmod>2019-02-19T15:52:15+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/images/sneakers-suit_files/saved_resource.html</loc>
+<lastmod>2019-02-19T15:52:15+02:00</lastmod>
 </url>
 </urlset>
