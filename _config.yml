@@ -21,6 +21,15 @@ authors:
     twitter: https://www.instagram.com/tomboxshop
     description: "TOMbox este un brand românesc cu accesorii și seturi bărbătești la cel mai avantajos preț."
 
+  blogatu:
+    name: blogatu.ro
+    display_name: blogatu.ro
+    gravatar: assets/images/blogatu.png?s=250&d=mm&r=x
+    email: blogatu@gmail.com
+    web: https://www.facebook.com/Blogatu
+    twitter: https://twitter.com/blogatu
+    description: "Marius Ovidiu Calugaru e numele meu. Insa in mediul online sunt cunoscut drept Blogatu. Si-mi place asta!"
+
 # Plugins
 plugins:
   - jekyll-paginate
