@@ -28,7 +28,7 @@ Este un costum versatil, se potrivește minunat cu o cămașă albă simplă și
 
 ### Află cum poți asorta pantofii
 
-[Îți oferim un ghid simplu, care să îți fie de folos atunci când nu ești convins ce anume se potrivește și ce nu.](blog.tomboxshop.com/costum/2019/02/14/cum-sa-asortezi-pantofii-la-costum.html){:target="_blank"}
+[Îți oferim un ghid simplu, care să îți fie de folos atunci când nu ești convins ce anume se potrivește și ce nu.](/costum/2019/02/14/cum-sa-asortezi-pantofii-la-costum.html){:target="_blank"}
 
 # Ești pe lista invitaților pentru o nuntă pe plajă ?
 
