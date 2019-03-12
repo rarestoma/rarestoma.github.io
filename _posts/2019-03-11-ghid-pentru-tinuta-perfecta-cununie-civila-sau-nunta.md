@@ -9,11 +9,7 @@ imgHREF: https://www.tomboxshop.com/cravate/cravata-paisley-albastru-si-rosu.htm
 keywords: mire, cunine civila, nunta, nunta pe plaja, boat shoes, butonii, batista, cravata, pantofii, dress code, black tie, costum mire, nuntă
 ---
 
-[Ghid pentru ținuta perfectă de cununie civilă sau nuntă](https://www.don-men.com/cum-sa-te-imbraci-la-o-cununie-civila-sau-nunta-ghid-util-pentru-barbati.html){:target="_blank"}
-
-## Da, știm...
-
-Nu e ușor în astfel de momente, să alegi ce să porți. Magazinele sunt pline de costume, cămăși, sacouri, pantaloni, dar oare ție care se potrivește cel mai bine? Oare ce să combini și cum, ca să nu pară luate la întâmplare, dar nici că te-ai străduit prea mult?
+Da, știm... Nu e ușor în astfel de momente, să alegi ce să porți. Magazinele sunt pline de costume, cămăși, sacouri, pantaloni, dar oare ție care se potrivește cel mai bine? Oare ce să combini și cum, ca să nu pară luate la întâmplare, dar nici că te-ai străduit prea mult? [Ghid pentru ținuta perfectă de cununie civilă sau nuntă .](https://www.don-men.com/cum-sa-te-imbraci-la-o-cununie-civila-sau-nunta-ghid-util-pentru-barbati.html){:target="_blank"}
 
 Cu toate astea, ținuta ta trebuie să fie una impecabilă. Păi, să analizăm... dacă ești invitat la o nuntă, atunci ești norocos, varietatea de opțiuni e mare și ai de unde alege. Dacă tu ești mirele, atunci ești cumva limitat în alegeri, pentru că nu-i așa, nu ai vrea să fii confundat cu unul dintre nuntași, din cauza ținutei. Până la urmă, e momentul tău cel mai important din viață și asta trebuie să se vadă și în hainele pe care le porți, și în pozele care vor dăinui peste ani.
 
