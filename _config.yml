@@ -30,6 +30,18 @@ authors:
     twitter: https://twitter.com/blogatu
     description: "Marius Ovidiu Calugaru e numele meu. Insa in mediul online sunt cunoscut drept Blogatu. Si-mi place asta!"
 
+  don:
+    name: DON MEN
+    display_name: DON MEN
+    gravatar: assets/images/don-men.png?s=250&d=mm&r=x
+    email: office@don-men.com
+    web: https://www.facebook.com/DONMENShopOnline/
+    twitter: https://twitter.com/donmenfashion
+    description: " Haine in pas cu moda, la preturi accesibile, create special pentru barbatul modern!"
+
+
+
+
 # Plugins
 plugins:
   - jekyll-paginate
