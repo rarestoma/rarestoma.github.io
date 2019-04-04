@@ -24,9 +24,6 @@ Ei bine, puțini dintre noi chiar stăm să medităm pe acest subiect și mai pu
 
 ## Cravata
 
-![alt text](../../../../assets/images/dotted.png)
-
-
 Cravata este într-adevăr o mărturie a eleganței masculine DACĂ culoarea și modelul ales sunt în armonie cu costumul sau celelalte părti componente ale ținutei.
 
 Spre deosebire de papion, cravata se pretează pe mai multe situatii. Putem opta pentru cravată atât la o întâlnire de afaceri, cât și la o ieșire la film.
